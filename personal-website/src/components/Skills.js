@@ -17,7 +17,7 @@ function Skills() {
             { name: "Java", iconClass: "devicon-java-plain colored" },
             { name: "Python", iconClass: "devicon-python-plain colored" },
             { name: "Kotlin", iconClass: "devicon-kotlin-plain colored" },
-            { name: "Bash", iconClass: "devicon-bash-plain colored" },
+            { name: "Bash", iconClass: "devicon-bash-plain" },
             { name: "Golang", iconClass: "devicon-go-plain colored" },
             { name: "C#", iconClass: "devicon-csharp-plain colored" },
             { name: "C++", iconClass: "devicon-cplusplus-plain colored" },
