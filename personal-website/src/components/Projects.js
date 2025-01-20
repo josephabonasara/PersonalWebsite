@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import project1Image from "../assets/profilepic.png";
+import project1Image from "../assets/github-ai-logo.png";
 import project2Image from "../assets/profilepic.png";
 import project3Image from "../assets/profilepic.png";
 
